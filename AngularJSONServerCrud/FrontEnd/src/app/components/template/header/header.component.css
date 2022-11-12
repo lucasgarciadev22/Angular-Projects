@@ -1,0 +1,22 @@
+.header{
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.header a{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  padding-right: 16px;
+  cursor: pointer;
+}
+
+.header .logo{
+  max-height: 50px;
+}
+.material-icons{
+  color: black;
+  margin: 8px;
+}

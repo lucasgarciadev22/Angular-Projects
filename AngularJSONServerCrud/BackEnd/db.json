@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Small Pen",
+      "price": 5.98
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13",
+      "price": 1200.50
+    },
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": 22.23
+    }
+  ]
+}
