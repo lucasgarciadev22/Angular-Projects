@@ -1,0 +1,20 @@
+.save-btn{
+  background-color: rgb(188, 81, 202);
+  margin: 16 0 px;
+}
+.cancel-btn{
+  margin: 16 0 px;
+  background-color: rgb(136, 136, 136);
+}
+.btn-container{
+  display: inline-flexbox;
+  vertical-align: auto;
+  border-radius: 8px;
+  background-color: rgb(245, 209, 250);
+  margin: 16 0 px;
+  padding: 16px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}

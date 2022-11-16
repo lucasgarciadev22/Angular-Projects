@@ -2,3 +2,8 @@
   position: fixed;
   bottom: 0;
 }
+.text{
+  position: fixed;
+  right: 8px;
+  font-size: medium;
+}

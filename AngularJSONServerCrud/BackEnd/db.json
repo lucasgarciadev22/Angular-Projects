@@ -8,12 +8,32 @@
     {
       "id": 3,
       "name": "iPhone 13",
-      "price": 1200.50
+      "price": 1200.5
     },
     {
       "id": 1,
       "name": "Notebook",
       "price": 22.23
+    },
+    {
+      "name": "Test Product",
+      "price": 129.9,
+      "id": 4
+    },
+    {
+      "name": "Novo",
+      "price": "55.23",
+      "id": 5
+    },
+    {
+      "name": "Test Product",
+      "price": 129.9,
+      "id": 6
+    },
+    {
+      "name": "Test Product",
+      "price": 129.9,
+      "id": 7
     }
   ]
 }
