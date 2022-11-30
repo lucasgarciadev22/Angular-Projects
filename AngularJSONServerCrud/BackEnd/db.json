@@ -1,21 +1,6 @@
 {
   "products": [
     {
-      "name": "Novoaa",
-      "price": "55.23",
-      "id": 5
-    },
-    {
-      "name": "Test Product",
-      "price": 129.9,
-      "id": 6
-    },
-    {
-      "name": "Test Product",
-      "price": 129.9,
-      "id": 7
-    },
-    {
       "name": "Test Product",
       "price": 129.9,
       "id": 8
@@ -23,12 +8,17 @@
     {
       "name": "Test Product",
       "price": 129.9,
-      "id": 9
+      "id": 10
     },
     {
       "name": "Test Product",
       "price": 129.9,
-      "id": 10
+      "id": 11
+    },
+    {
+      "name": "Test Product",
+      "price": 129.9,
+      "id": 12
     }
   ]
 }
